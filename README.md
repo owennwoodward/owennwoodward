@@ -6,6 +6,8 @@ My Name is Owen Woodward and I'm a student at CodeWorks. I'm an Air Force vetera
 
 -- 🌱 Will eventually be getting into C#, Vue.js, MySQL
 
+-- 📫 I can be reached at https://www.linkedin.com/in/owen-woodward-13b200241/ or owenwoodward555@gmail.com
+
 
 
 <!--
