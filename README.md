@@ -1,6 +1,6 @@
 Howdy Partners 👋
 
-My Name is Owen Woodward and I'm a student at CodeWorks. I'm an Air Force veteran and current student at Boise State University. I have always been fascinated by software development since my first time using a computer at 8 years old. You never understand how amazing and complex technology really is until you try to develop software yourself. I took the plunge into full stack development May of 2022, and have enjoyed the struggle thus far. My current hobbies include being an avid gym goer and hockey watcher. 
+My Name is Owen Woodward and I'm a student at CodeWorks. I'm an Air Force veteran and current student at Boise State University. I have always been fascinated by software development since my first time using a computer at 8 years old. You never understand how amazing and complex technology really is until you try to develop software yourself. I took the plunge into full stack development May of 2022, and have enjoyed the struggle thus far.
 
 --  My coding experiences and languages listed below and always be evolving.
 
@@ -9,6 +9,16 @@ My Name is Owen Woodward and I'm a student at CodeWorks. I'm an Air Force vetera
 -- 🌱 Will be getting into C#, Vue.js, MySQL, node.js and many more.
 
 -- 📫 I can be reached at https://www.linkedin.com/in/owen-woodward-13b200241/ or owenwoodward555@gmail.com
+
+-- ⚡⚡⚡ My current hobbies: ⚡⚡⚡
+
+-- 🏋️‍♀️ Avid gym goer
+
+-- 🏑 Professional Hockey watcher
+
+-- 🧙‍♂️ Video Game Enjoyer
+
+-- 🌊 River floating enthusiast
 
 
 
