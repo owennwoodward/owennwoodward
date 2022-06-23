@@ -4,9 +4,9 @@ My Name is Owen Woodward and I'm a student at CodeWorks. I'm an Air Force vetera
 
 --  My coding experiences and languages listed below and always be evolving.
 
--- 🔭 Currently working with JavaScript, HTML, and CSS, and Mongo DB.  
+-- 🔭 Currently working with JavaScript, HTML, and CSS, and Mongo DB, Vue3, Node.js  
 
--- 🌱 Will be getting into C#, Vue.js, MySQL, node.js and many more.
+-- 🌱 Will be getting into C#, MySQL, and many more.
 
 -- 📫 I can be reached at https://www.linkedin.com/in/owen-woodward-13b200241/ or owenwoodward555@gmail.com
 
