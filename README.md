@@ -8,7 +8,7 @@ My Name is Owen Woodward and I'm a student at CodeWorks. I'm an Air Force vetera
 
 -- 🌱 Looking to learn Python and many more
 
--- 📫 I can be reached at https://www.linkedin.com/in/owen-woodward-13b200241/ or owenwoodward555@gmail.com
+-- 📫 I can be reached at www.linkedin.com/in/owen-woodward8 or owenwoodward555@gmail.com
 
 -- ⚡⚡⚡ My current hobbies: ⚡⚡⚡
 
