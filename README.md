@@ -4,9 +4,9 @@ My Name is Owen Woodward I'm an Air Force veteran and current student at Boise S
 
 --  My coding experiences and languages listed below and always be evolving.
 
--- 🔭 Currently working with JavaScript, HTML, and CSS, and Mongo DB, Vue3, Node.js, C#, MySQL
+-- 🔭 Currently working with JavaScript, HTML, and CSS, and Mongo DB, Vue3, Node.js, C#, MySQL, .Net
 
--- 🌱 Looking to learn Python and many more
+-- 🌱 Looking to learn Python, react and many more
 
 -- 📫 I can be reached at www.linkedin.com/in/owen-woodward8 or owenwoodward555@gmail.com
 
